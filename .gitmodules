@@ -1,0 +1,6 @@
+[submodule "multy_process_cis_tcp"]
+	path = multy_process_cis_tcp
+	url = git@github.com:eltex-ss/multy_process_cis_tcp.git
+[submodule "multy_process_cis_udp"]
+	path = multy_process_cis_udp
+	url = git@github.com:eltex-ss/multy_process_cis_udp.git
